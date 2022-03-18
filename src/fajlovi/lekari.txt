@@ -1,0 +1,4 @@
+Panta|Pantic|1234999896547|MUSKI|Zeleznicka 32|611230891|panta|panta|LEKAR|85000.0|specijalizacija|S_OPSTE_MEDICINE
+Tea|Teic|123456789102|ZENSKI|Fruskogorska 83|651478230|tea|tea|LEKAR|80000.0|specijalista|STOMATOLOSKA_S
+Jovan|Jovanovic|6532014786329|MUSKI|Prvog novembra 99|614750399|jovan|jovan|LEKAR|80000.9|specijalista|S_ZDRAVSTVENE_ZASTITE_DECE
+Nikolaj|Nikolajevic|1234567890988|MUSKI|Somborska 10|691234567|nikolaj|nikolaj|LEKAR|75000.0|specijalista|S_ZDRAVSTVENE_ZASTITE_DECE

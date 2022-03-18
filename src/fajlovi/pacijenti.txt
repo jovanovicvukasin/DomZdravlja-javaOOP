@@ -1,0 +1,4 @@
+Nikola|Nikolic|7893201456012|MUSKI|Njegoseva 70|654723014|nikola|nikola|PACIJENT|tea|10
+Ana|Anic|7896378905215|ZENSKI|Glavna 45|647896301|ana|ana|PACIJENT|panta|11
+Todor|Todorovic|8863201478960|MUSKI|Dositejeva 40|632014572|todor|todor|PACIJENT|panta|12
+Aca|Acic|1234567890098|MUSKI|Dositejeva 2|664321567|aca|aca|PACIJENT|jovan|13
